@@ -1,0 +1,29 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dodaide/node_js.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "dodaide",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dodaide/node_js/issues"
+  },
+  "homepage": "https://github.com/dodaide/node_js#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
